@@ -1,0 +1,4 @@
+hours_studied,attendance,practice_tests,sleep_hours,study_method,predicted_passed,predicted_outcome
+8.0,94,5,7.5,self,1,Pass
+1.5,57,0,5.0,video,0,Fail
+5.0,81,3,,group,1,Pass
