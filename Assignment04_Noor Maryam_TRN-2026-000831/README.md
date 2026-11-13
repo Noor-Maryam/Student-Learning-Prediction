@@ -28,4 +28,4 @@ Upload `Student_Pass_Fail.ipynb` as a notebook. After connecting, upload `studen
 
 The saved logistic regression pipeline scored 75.0% accuracy and 0.720 Pass F1 on 56 test records. It was selected using training cross-validation. See `evaluation_summary.md` for all three models and `model_card.md` for limitations. This is a classroom demonstration. Do not use its predictions to grade or penalize real students.
 
-GitHub repository: [paste your Assignment 04 repository URL here]
+GitHub repository: [https://github.com/Noor-Maryam/Student-Learning-Prediction]
